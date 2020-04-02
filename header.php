@@ -1,5 +1,8 @@
 <?php
     session_start();
+    
+    error_reporting(E_ERROR | E_PARSE);  
+
     include("data/mysql_connect.php");
     include("data/functions.php");
     include("data/multipage_post.php");
