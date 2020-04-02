@@ -9,6 +9,9 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/TobiHatti/EasRP)](https://github.com/TobiHatti/EasRP/issues)
 [![GitHub language count](https://img.shields.io/github/languages/count/TobiHatti/EasRP)](https://github.com/TobiHatti/EasRP)
 
+![image](https://github.com/TobiHatti/EasRP/blob/master/easRPSample_01.png)
+![image](https://github.com/TobiHatti/EasRP/blob/master/easRPSample_02.png)
+
 Fully featured ERP-System.
 
 __NOTE: THIS VERSION DOES NOT WORK WITH PHP VERSION 7 AND UP - LAST KNOWN WORKING VERSION: PHP 5.6__
