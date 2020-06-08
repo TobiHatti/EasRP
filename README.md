@@ -1,4 +1,4 @@
-<img align="right" width="80" height="80" src="https://github.com/TobiHatti/EasRP/blob/master/files/content/favicon.ico">
+<img align="right" width="80" height="80" data-rmimg src="https://endev.at/content/projects/EasRP/EasRP_Logo_128.png">
 
 # EasRP
 
@@ -9,12 +9,14 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/TobiHatti/EasRP)](https://github.com/TobiHatti/EasRP/issues)
 [![GitHub language count](https://img.shields.io/github/languages/count/TobiHatti/EasRP)](https://github.com/TobiHatti/EasRP)
 
-![image](https://github.com/TobiHatti/EasRP/blob/master/easRPSample_01.png)
-![image](https://github.com/TobiHatti/EasRP/blob/master/easRPSample_02.png)
+![image](https://endev.at/content/projects/EasRP/EasRP_Banner_1080.png)
 
 Fully featured ERP-System.
 
 __NOTE: THIS VERSION DOES NOT WORK WITH PHP VERSION 7 AND UP - LAST KNOWN WORKING VERSION: PHP 5.6__
+
+![image](https://endev.at/content/projects/EasRP/projectImages/easRPSample_01.png)
+![image](https://endev.at/content/projects/EasRP/projectImages/easRPSample_02.png)
 
 Note: This Program is an extension and enhancment of the WEPEN-ERP System.
 
