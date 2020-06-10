@@ -9,7 +9,7 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/TobiHatti/EasRP)](https://github.com/TobiHatti/EasRP/issues)
 [![GitHub language count](https://img.shields.io/github/languages/count/TobiHatti/EasRP)](https://github.com/TobiHatti/EasRP)
 
-![image](https://endev.at/content/projects/EasRP/EasRP_Banner_1080.png)
+![image](https://endev.at/content/projects/EasRP/EasRP_Banner_300.png)
 
 Fully featured ERP-System.
 
